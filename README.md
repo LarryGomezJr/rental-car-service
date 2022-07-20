@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Car Rental Service
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img src="src/assets/rent-img.png" width="128"/>
 
 ## Available Scripts
 
