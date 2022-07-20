@@ -1,6 +1,6 @@
 # Car Rental Service
 
-<img src="src/assets/rent-image.png" width="550"/>
+<img src="src/assets/rent-image.png" width="750"/>
 
 ## Available Scripts
 
