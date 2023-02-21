@@ -23,7 +23,7 @@ const About = () => {
           <Col lg='6' md='6' sm='12'>
             <div className="about__page-content">
               <h2 className="section__title">We are committed to provide safe ride solutions</h2>
-              <p className="section__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem amet vitae voluptatum eum ab quaerat illum corrupti repudiandae et. Commodi laboriosam quibusdam minima, modi sequi corporis unde tempora repudiandae at, impedit, soluta accusantium repellendus nulla in qui similique! Distinctio optio voluptas officiis nemo! Nobis, est. Illum nesciunt explicabo consequuntur consectetur</p>
+              <p className="section__description">Quidem amet vitae voluptatum eum ab quaerat illum corrupti repudiandae et. Commodi laboriosam quibusdam minima, modi sequi corporis unde tempora repudiandae at, impedit, soluta accusantium repellendus nulla in qui similique! Distinctio optio voluptas officiis nemo! Nobis, est. Illum nesciunt explicabo consequuntur consectetur</p>
 
               <p className="section__description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem amet vitae voluptatum eum ab quaerat illum corrupti repudiandae et. Commodi laboriosam quibusdam minima, modi sequi corporis unde tempora repudiandae at, impedit, soluta accusantium repellendus nulla in qui similique! Distinctio optio voluptas officiis nemo! Nobis, est. Illum nesciunt explicabo consequuntur consectetur</p>
               <div className="d-flex align-items-center gap-3 mt-4">
